@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This guide is for Developer Catalyst Program participants. We appreciate your efforts in enhancing the Sui ecosystem.
+This guide is for Developer Beyonder Program participants. We appreciate your efforts in enhancing the Sui ecosystem.
 
 Here's how it works:
 
