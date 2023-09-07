@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/card_img/1695138100568096769/aqDfM5aQ?format=jpg&name=medium" alt="Sui Developer Beyonder"/>
+  <img src="https://github.com/catmcgee/sui-developer-catalysts/assets/43999360/9497ae3b-7375-4156-b482-b31e7b30feb3" alt="Sui Developer Beyonder" height=50% width=50%/>
 </p>
+
 
 # Developer Beyonder Program 
 
