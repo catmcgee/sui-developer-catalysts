@@ -1,15 +1,15 @@
-# Welcome to the Sui Developer Catalyst Program
+# Welcome to the Sui Developer Beyonder Program
 
-We're delighted to welcome you to the Sui Developer Catalyst Initiative! This initiative aims to unite creative, innovative, and passionate developers into our tech ecosystem. We believe that as a Developer Catalyst, you're uniquely positioned to revolutionize and drive forward the next wave of web3 innovations.
+We're delighted to welcome you to the Sui Developer Beyonder Initiative! This initiative aims to unite creative, innovative, and passionate developers into our tech ecosystem. We believe that as a Developer Beyonder, you're uniquely positioned to revolutionize and drive forward the next wave of web3 innovations.
 
-At Sui, we strive for a strong bond with our Developer Catalysts and we will work with you to provide all the necessary support you need. Please feel free to share your unique viewpoints and constructive criticism, as they could help us enhance our initiative and the overall developer community.
+At Sui, we strive for a strong bond with our Developer Beyonders and we will work with you to provide all the necessary support you need. Please feel free to share your unique viewpoints and constructive criticism, as they could help us enhance our initiative and the overall developer community.
 
 In this document we'll give a few guidelines on what we are looking in an Ambassador for this program and what would it look like to become one. 
 
-### What's my mission as a Developer Catalyst? 
+### What's my mission as a Developer Beyonder? 
 **⚡ Harness your technical powers for the Sui community**
 
-Every Developer Catalyst comes with their own unique technical abilities, and we encourage you to leverage those to augment our community. We're here to facilitate your journey, not to micromanage. You're encouraged to guide educational endeavors, develop technical content, drive community growth, manage events, or contribute however you wish.
+Every Developer Beyonder comes with their own unique technical abilities, and we encourage you to leverage those to augment our community. We're here to facilitate your journey, not to micromanage. You're encouraged to guide educational endeavors, develop technical content, drive community growth, manage events, or contribute however you wish.
 
 ### What’s in it for me?
 **⭐ Lots of fun things**
