@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/card_img/1695138100568096769/aqDfM5aQ?format=jpg&name=medium" alt="Sui Developer Catalysts"/>
+  <img src="https://pbs.twimg.com/card_img/1695138100568096769/aqDfM5aQ?format=jpg&name=medium" alt="Sui Developer Beyonder"/>
 </p>
 
-# Developer Catalyst Program 
+# Developer Beyonder Program 
 
-This repository is established as a central location to showcase the valuable contributions made by participants in the Developer Catalyst Program. This could be in the form of enhancing documentation, creating helpful content, fixing bugs, contributing to boilerplate code, and more.
+This repository is established as a central location to showcase the valuable contributions made by participants in the Developer Beyonder Program. This could be in the form of enhancing documentation, creating helpful content, fixing bugs, contributing to boilerplate code, and more.
 
 Check out our [contributing guide](https://github.com/catmcgee/sui-developer-catalysts/blob/main/CONTRIBUTING.md) for more detailed instructions. The [Issues](https://github.com/catmcgee/sui-developer-catalysts/blob/main/Issues) tab will have some more ideas you can start working on.
 
