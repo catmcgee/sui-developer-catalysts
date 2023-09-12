@@ -45,7 +45,7 @@ Please make a PR to include any links in the README.md. We’ll merge into the m
 
 ### Selection Criteria
 
-If all of the previous things mentioned sound exciting to you, this are some of the things we are looking for in the future Ambassadors:
+This are some of the things we are looking for in future developer Beyonders:
 
 **Essential:**
 - Must be fluent in both written and spoken English. Other languages are a nice add.
